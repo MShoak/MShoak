@@ -1,7 +1,7 @@
 ### Hola, soy Michael Ramírez 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Frontend%20Developer&fontSize=50&fontColor=06b6d4&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Industrial%20%7C%20Angular%20%26%20React%20Specialist&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Frontend%20Developer&fontSize=50&fontColor=06b6d4&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Industrial%20%7C%20Angular%20%26%20React%20Specialist&descAlignY=55&descAlign=50" alt="header" />
 </div>
 
 <br/>
@@ -17,12 +17,12 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por crear in
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
@@ -38,9 +38,9 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por crear in
 
 <div align="center">
   <a href="mailto:Michael-519@hotmail.com">
-    <img src="https://img.shields.io/badge/Contáctame-Michael--519%40hotmail.com-06b6d4?style=flat&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contáctame-Michael--519%40hotmail.com-06b6d4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://www.linkedin.com/in/TU_USUARIO_AQUI](https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Ramírez-blue?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Ramírez-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
