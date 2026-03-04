@@ -16,12 +16,17 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arqui
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Estadísticas de GitHub
+### 🚀 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MShoak&show_icons=true&theme=radical" alt="Estadísticas de MShoak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShoak&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
-</p>
+**[🌐 Mi Portafolio Web (SPA)](https://tu-enlace-aqui.vercel.app)**
+> Portafolio personal diseñado con una arquitectura Frontend moderna.
+> - **Tecnologías:** Angular 17, TypeScript, SCSS.
+> - **Destacado:** Diseño Mobile-First, optimización de Core Web Vitals y maquetación responsiva avanzada usando CSS Grid y Flexbox.
+
+**[🐟 Peces Acuamayo](#)** *(Cambia el # por el link de tu proyecto si lo tienes)*
+> Aplicación web estructurada para la visualización y gestión.
+> - **Tecnologías:** HTML, CSS, JavaScript, Swiper.js.
+> - **Destacado:** Interfaces de usuario atractivas y funcionales con carruseles dinámicos.
 
 ### 📫 Conecta conmigo:
 [<img align="left" alt="Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/)
