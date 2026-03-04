@@ -16,6 +16,10 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arqui
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+📫 Conecta conmigo:
+[<img align="left" alt="Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/)
+[<img align="left" alt="Michael | Correo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:Michael-519@hotmail.com)
+
 
 🚀 Proyectos Destacados
 
@@ -34,6 +38,4 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arqui
 > - **Tecnologías:** HTML, CSS, JavaScript *(Cambia esto si usaste Angular/React)*.
 > - **Destacado:** Diseño visual inmersivo, experiencia de usuario (UX) optimizada y catálogo interactivo.
 
-#📫 Conecta conmigo:
-[<img align="left" alt="Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/)
-[<img align="left" alt="Michael | Correo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:Michael-519@hotmail.com)
+
