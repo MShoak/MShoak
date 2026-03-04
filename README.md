@@ -18,15 +18,22 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arqui
 
 ### 🚀 Proyectos Destacados
 
-**[🌐 Mi Portafolio Web (SPA)](https://tu-enlace-aqui.vercel.app)**
-> Portafolio personal diseñado con una arquitectura Frontend moderna.
-> - **Tecnologías:** Angular 17, TypeScript, SCSS.
-> - **Destacado:** Diseño Mobile-First, optimización de Core Web Vitals y maquetación responsiva avanzada usando CSS Grid y Flexbox.
+### 🚀 Proyectos Destacados
 
-**[🐟 Peces Acuamayo](#)** *(Cambia el # por el link de tu proyecto si lo tienes)*
-> Aplicación web estructurada para la visualización y gestión.
+**[🌐 Mi Portafolio Web 
+> Portafolio personal diseñado con una arquitectura Frontend moderna.
+> - **Tecnologías:** Angular 17+, TypeScript, SCSS.
+> - **Destacado:** Diseño Mobile-First, optimización de Core Web Vitals y maquetación responsiva avanzada.
+
+**[🐟 Peces Acuamayo]
+> Interfaz web interactiva para la presentación de productos acuícolas.
 > - **Tecnologías:** HTML, CSS, JavaScript, Swiper.js.
-> - **Destacado:** Interfaces de usuario atractivas y funcionales con carruseles dinámicos.
+> - **Destacado:** Componentes UI atractivos y funcionales con carruseles dinámicos.
+
+**[🕯️ Made At Home 
+> E-commerce / Landing page enfocada en la presentación comercial y visual de productos.
+> - **Tecnologías:** HTML, CSS, JavaScript *(Cambia esto si usaste Angular/React)*.
+> - **Destacado:** Diseño visual inmersivo, experiencia de usuario (UX) optimizada y catálogo interactivo.
 
 ### 📫 Conecta conmigo:
 [<img align="left" alt="Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/)
