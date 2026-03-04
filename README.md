@@ -1,4 +1,4 @@
-# Hola, soy Michael Ramírez 👋
+ Hola, soy Michael Ramírez 👋
 
 Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arquitectura de aplicaciones web de página única (SPA). Combino mi experiencia en Aseguramiento de Calidad (QA) y análisis de datos para escribir código limpio, escalable y libre de bugs.
 
@@ -7,7 +7,7 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arqui
 - 👯 **Busco colaborar en:** Equipos que valoren el rendimiento, la experiencia de usuario (UX/UI) y las buenas prácticas de desarrollo.
 - ⚡ **Dato curioso:** Aplico metodologías de ingeniería industrial y control de procesos para optimizar la lógica de mis interfaces.
 
-### 🛠️ Stack Tecnológico
+🛠️ Stack Tecnológico
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,25 +16,24 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arqui
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 Proyectos Destacados
 
-### 🚀 Proyectos Destacados
+🚀 Proyectos Destacados
 
-**[🌐 Mi Portafolio Web 
+🌐 Mi Portafolio Web 
 > Portafolio personal diseñado con una arquitectura Frontend moderna.
 > - **Tecnologías:** Angular 17+, TypeScript, SCSS.
 > - **Destacado:** Diseño Mobile-First, optimización de Core Web Vitals y maquetación responsiva avanzada.
 
-**[🐟 Peces Acuamayo]
+🐟 Peces Acuamayo
 > Interfaz web interactiva para la presentación de productos acuícolas.
 > - **Tecnologías:** HTML, CSS, JavaScript, Swiper.js.
 > - **Destacado:** Componentes UI atractivos y funcionales con carruseles dinámicos.
 
-**[🕯️ Made At Home 
+🕯️ Made At Home 
 > E-commerce / Landing page enfocada en la presentación comercial y visual de productos.
 > - **Tecnologías:** HTML, CSS, JavaScript *(Cambia esto si usaste Angular/React)*.
 > - **Destacado:** Diseño visual inmersivo, experiencia de usuario (UX) optimizada y catálogo interactivo.
 
-### 📫 Conecta conmigo:
+#📫 Conecta conmigo:
 [<img align="left" alt="Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/)
 [<img align="left" alt="Michael | Correo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:Michael-519@hotmail.com)
