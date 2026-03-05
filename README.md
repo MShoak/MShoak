@@ -15,22 +15,12 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arqui
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 Proyectos Destacados
+### 💻 Mi Portafolio Web
 
-**[🌐 Mi Portafolio Web (SPA)](https://mshoak-portafolio.vercel.app)**
+**[🌐 MShoak | Portafolio (SPA)](https://mshoak-portafolio.vercel.app)**
 > Portafolio personal diseñado con una arquitectura Frontend moderna.
 > - **Tecnologías:** Angular 17+, TypeScript, SCSS.
 > - **Destacado:** Diseño Mobile-First, optimización de Core Web Vitals y maquetación responsiva avanzada.
-
-**[🐟 Peces Acuamayo](#)**
-> Interfaz web interactiva para la presentación de productos acuícolas.
-> - **Tecnologías:** HTML, CSS, JavaScript, Swiper.js.
-> - **Destacado:** Componentes UI atractivos y funcionales con carruseles dinámicos.
-
-**[🕯️ Made At Home](#)**
-> E-commerce / Landing page enfocada en la presentación comercial y visual de productos.
-> - **Tecnologías:** HTML, CSS, JavaScript.
-> - **Destacado:** Diseño visual inmersivo, experiencia de usuario (UX) optimizada y catálogo interactivo.
 
 ### 📫 Contactame:
 
