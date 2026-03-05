@@ -1,4 +1,4 @@
-# Hola, soy Michael 👋
+# Hola, soy Michael Ramírez Caro
 
 Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arquitectura de aplicaciones web de página única (SPA). Combino mi experiencia en Aseguramiento de Calidad (QA) y análisis de datos para escribir código limpio, escalable y libre de bugs.
 
