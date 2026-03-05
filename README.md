@@ -33,5 +33,6 @@ Soy un **Ingeniero Industrial y Desarrollador Frontend** apasionado por la arqui
 > - **Destacado:** Diseño visual inmersivo, experiencia de usuario (UX) optimizada y catálogo interactivo.
 
 ### 📫 Conecta conmigo:
-[<img align="left" alt="Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/)
-[<img align="left" alt="Michael | Correo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:Michael-519@hotmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ram%C3%ADrez-caro-a0a963164/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael-519@hotmail.com)
